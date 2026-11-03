@@ -5,3 +5,4 @@ brokkoli
 bananen
 leberkassemmerl
 kartoffel
+bratl
