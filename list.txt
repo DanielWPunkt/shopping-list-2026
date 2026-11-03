@@ -10,3 +10,4 @@ bananen
 leberkassemmerl
 kartoffel
 bratl
+sekt
